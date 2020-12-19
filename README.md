@@ -9,4 +9,8 @@
                 - student_id: r09944021
                 - github: [MarvinChung](https://github.com/MarvinChung)
             ### Report
+<<<<<<< HEAD
             I don't have time therefore I submit random agent.
+=======
+            I don't have time therefore I submit random agent.
+>>>>>>> ce44a1e6ea4a10eea929eedfdb7313d8e8aa6f1f
