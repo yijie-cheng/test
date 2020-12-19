@@ -1,1 +1,1 @@
-print("i am so lonely")
+print("i am so lone")
